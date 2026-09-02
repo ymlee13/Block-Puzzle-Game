@@ -1,4 +1,4 @@
-# COMP2045 Programming Assignment 1 - Block Puzzle Game (SameGame)
+# Block Puzzle Game (SameGame)
 
 ## 📌 Overview
 This is a Java implementation of the classic **SameGame** block puzzle game, developed as part of the COMP2045 Programming Assignment at Hong Kong Baptist University. The game challenges players to strategically select and remove connected blocks of the same symbol to achieve the highest possible score.
