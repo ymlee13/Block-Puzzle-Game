@@ -62,13 +62,13 @@ java -jar demo2.jar
 ```
 
 ## 📊 Project Structure
-```bash
-├── SameGame.java          # Main game implementation
-├── TestClass.java         # Unit tests for validation
-├── demo.jar               # Demo version of the game
-├── demo2.jar              # Alternative demo version
-├── top_scores.txt         # High score storage (auto-generated)
-└── README.md              # Project documentation
+```text
+COMP2045-SameGame/
+├── SameGame.java          # Main game code
+├── TestClass.java         # Unit tests
+├── README.md              # Project documentation
+├── top_scores.txt         # High score storage
+└── .gitignore             # Git ignore rules
 ```
 
 ## 🧪 Testing
@@ -77,3 +77,13 @@ Unit tests are provided in TestClass.java to verify method implementations. To r
 2. Click the @Test annotation
 3. Select "Add JUnit5.x.x to classpath"
 4. Click the run icon to execute all tests
+
+## 📝 Learning Outcomes
+- Practice with 2D arrays in Java
+- Method construction and parameter passing
+- Array manipulation and algorithm implementation
+- Game logic development from scratch
+- File I/O operations for high score management
+
+## 📚 Resources
+- Assignment GitHub: https://github.com/khwang0/COMP2045-2526PA1
