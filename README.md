@@ -65,18 +65,10 @@ java -jar demo2.jar
 ```text
 COMP2045-SameGame/
 ├── SameGame.java          # Main game code
-├── TestClass.java         # Unit tests
 ├── README.md              # Project documentation
 ├── top_scores.txt         # High score storage
 └── .gitignore             # Git ignore rules
 ```
-
-## 🧪 Testing
-Unit tests are provided in TestClass.java to verify method implementations. To run tests in IntelliJ:
-1. Open TestClass.java
-2. Click the @Test annotation
-3. Select "Add JUnit5.x.x to classpath"
-4. Click the run icon to execute all tests
 
 ## 📝 Learning Outcomes
 - Practice with 2D arrays in Java
